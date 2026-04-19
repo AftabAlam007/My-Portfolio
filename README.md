@@ -125,8 +125,8 @@ API Endpoint: `POST /api/contact`
 Request Body:
 ```json
 {
-  "name": "John Doe",
-  "email": "john@example.com",
+  "name": "Aftab",
+  "email": "demo@example.com",
   "message": "Hello, I want to connect!"
 }
 ```
@@ -173,10 +173,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Aftab Alam**
+**Md Aftab Alam**
 - Portfolio: [Your Portfolio URL]
 - LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
+- GitHub: [[Your GitHub]](https://github.com/AftabAlam007)
 - Email: aftab.alam@example.com
 =======
 # My-Portfolio
