@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aftab Alam - Personal Portfolio
 
 A modern, responsive personal portfolio website for Java Full Stack Developer Aftab Alam.
@@ -177,3 +178,6 @@ This project is open source and available under the [MIT License](LICENSE).
 - LinkedIn: [Your LinkedIn]
 - GitHub: [Your GitHub]
 - Email: aftab.alam@example.com
+=======
+# My-Portfolio
+>>>>>>> a3689073ff48b392a94379e0002f0bd24cc6d765
