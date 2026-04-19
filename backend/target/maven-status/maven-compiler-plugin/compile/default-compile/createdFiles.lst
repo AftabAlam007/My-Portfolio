@@ -1,0 +1,5 @@
+com\aftab\portfolio\PortfolioApplication.class
+com\aftab\portfolio\service\ContactService.class
+com\aftab\portfolio\repository\ContactRepository.class
+com\aftab\portfolio\model\Contact.class
+com\aftab\portfolio\controller\ContactController.class
