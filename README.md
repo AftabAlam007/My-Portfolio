@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Aftab Alam - Personal Portfolio
+# Md Aftab Alam - Personal Portfolio
 
 A modern, responsive personal portfolio website for Java Full Stack Developer Aftab Alam.
 
@@ -125,8 +125,8 @@ API Endpoint: `POST /api/contact`
 Request Body:
 ```json
 {
-  "name": "John Doe",
-  "email": "john@example.com",
+  "name": "Aftab",
+  "email": "demo@example.com",
   "message": "Hello, I want to connect!"
 }
 ```
@@ -173,11 +173,11 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Aftab Alam**
+**Md Aftab Alam**
 - Portfolio: [Your Portfolio URL]
 - LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
-- Email: aftab.alam@example.com
+- GitHub: [[Your GitHub]](https://github.com/AftabAlam007)
+- Email: aftabalam.developer@example.com
 =======
 # My-Portfolio
 >>>>>>> a3689073ff48b392a94379e0002f0bd24cc6d765
