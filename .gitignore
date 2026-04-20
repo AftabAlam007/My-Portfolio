@@ -1,0 +1,19 @@
+# Node dependencies
+**/node_modules/
+
+# Production build output
+**/dist/
+
+# Spring Boot build target
+backend/target/
+
+# Environment files
+*.env*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
